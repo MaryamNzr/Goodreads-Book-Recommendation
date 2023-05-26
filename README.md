@@ -57,5 +57,5 @@ function App() {
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/MaryamNzr/Goodreads-Book-Recommendation/blob/main/Picture1.jpg))
 
