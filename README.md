@@ -20,7 +20,7 @@ UCSD Book Graph>Meta-data of the books> goodreads_books.json.gz
 ![Alt text](https://github.com/MaryamNzr/Goodreads-Book-Recommendation/blob/main/Picture6.png)
 ## Pre-Processing 
 ### KMeans Clustering (Choosing K using Elbow Method)
-![Alt text]([https://github.com/MaryamNzr/Goodreads-Book-Recommendation/commit/03985e6804272cce58cb189938d1d8009a5ef3a4](https://github.com/MaryamNzr/Goodreads-Book-Recommendation/blob/main/Picture10.png)
+![Alt text](https://github.com/MaryamNzr/Goodreads-Book-Recommendation/commit/03985e6804272cce58cb189938d1d8009a5ef3a4](https://github.com/MaryamNzr/Goodreads-Book-Recommendation/blob/main/Picture10.png)
 ### KMeans Clustering(Choosing K using Silhouette Method)
 ![Alt text](https://github.com/MaryamNzr/Goodreads-Book-Recommendation/blob/main/Picture7.png)
 
