@@ -30,8 +30,6 @@ UCSD Book Graph>Meta-data of the books> goodreads_books.json.gz
 
 ## Acknowledgements
 [UCSD Book Graph](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
-![Alt text](https://github.com/MaryamNzr/Goodreads-Book-Recommendation/blob/main/Pics/Screen%20Shot%202023-06-06%20at%203.46.13%20PM.png)
-
 ## Authors
 [@Maryam Nozari](https://github.com/MaryamNzr)
 
