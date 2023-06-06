@@ -5,7 +5,6 @@
 Goodreads is a popular online platform where readers can discover new books, read reviews, and connect with other readers. However, with millions of books available on the platform, it can be overwhelming for users to find books that match their preferences. In this project, we aim to build a recommendation system for Goodreads users that suggests books based on their reading history, preferences, and ratings. Our goal is to provide a personalized and intuitive experience for users, helping them discover new books that they are likely to enjoy. Using Machine Learning(ML) and Natural Language Processing(NLP) techniques, we will build a model that can predict the likelihood of a user liking a book based on features such as book title, author, genre, description, user reviews, and book ratings. The final output is a recommendation engine that suggests books to users based on their input and history on the platform.
 ## Data Acquisition
 UCSD Book Graph>Meta-data of the books> goodreads_books.json.gz 
-![Alt text](https://github.com/MaryamNzr/Goodreads-Book-Recommendation/blob/main/Pics/Screen%20Shot%202023-06-06%20at%203.46.13%20PM.png)
 ### Data Definitions
 ![Alt text](https://github.com/MaryamNzr/Goodreads-Book-Recommendation/blob/main/Pics/Picture2.png)
 ## Data Wrangling: Removing Duplicates
@@ -31,6 +30,7 @@ UCSD Book Graph>Meta-data of the books> goodreads_books.json.gz
 
 ## Acknowledgements
 [UCSD Book Graph](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
+![Alt text](https://github.com/MaryamNzr/Goodreads-Book-Recommendation/blob/main/Pics/Screen%20Shot%202023-06-06%20at%203.46.13%20PM.png)
 
 ## Authors
 [@Maryam Nozari](https://github.com/MaryamNzr)
